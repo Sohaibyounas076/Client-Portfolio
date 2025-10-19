@@ -1,0 +1,81 @@
+{
+  "name": "iqra-majeed-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio of Iqra Majeed - Full Stack Developer specializing in React, Django, Python, and Flutter",
+  "private": true,
+  "homepage": "https://sohaibyounas076.github.io/Client-Portfolio",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^3.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ],
+    "rules": {
+      "no-unused-vars": "warn",
+      "no-console": "warn"
+    }
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "keywords": [
+    "react",
+    "portfolio",
+    "fullstack",
+    "developer",
+    "django",
+    "python",
+    "javascript",
+    "flutter",
+    "web-development",
+    "mobile-development",
+    "frontend",
+    "backend",
+    "responsive-design",
+    "pakistan",
+    "lahore"
+  ],
+  "author": {
+    "name": "Iqra Majeed",
+    "email": "iqramajeed.dev@gmail.com",
+    "url": "https://github.com/IqraMajeed-Dev"
+  },
+  "contributors": [],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sohaibyounas076/Client-Portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sohaibyounas076/Client-Portfolio/issues"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}

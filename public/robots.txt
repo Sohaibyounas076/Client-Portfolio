@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+
+Sitemap: https://iqramajeed-dev.github.io/sitemap.xml
+
+# Portfolio of Iqra Majeed - Full Stack Developer
+# Feel free to crawl and index the site
