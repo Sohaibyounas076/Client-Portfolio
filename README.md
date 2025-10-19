@@ -52,7 +52,7 @@ Code Quality: Clean, maintainable React components
 
 Homepage Preview:
 
-![Portfolio Screenshot](img/iqraportfolio.png)
+![Portfolio Screenshot](iqraportfolio.png)
 
 ....
 
